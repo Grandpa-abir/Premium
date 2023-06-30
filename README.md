@@ -12,4 +12,4 @@ For Buy Apruval Visit: https://t.me/abirs_house
 `pip install requests`<br>
 `git clone https://github.com/Grandpa-abir/Premium`<br>
 `cd Premium`<br>
-`python Web_View.py`<br>
+`python Web.py`<br>
