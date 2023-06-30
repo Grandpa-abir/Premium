@@ -3,7 +3,7 @@
 a tool for website auto views 🙂 it's a very strong tool amd 100% working 😌 
 But it's Paid Tool
 
-For Buy Apruval Visit: <a href="https://t.me/abirs_house>Telegram</a>
+For Buy Apruval Visit: https://t.me/abirs_house
 # Installation
 
 `pkg update`<br>
