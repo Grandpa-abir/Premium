@@ -4,6 +4,11 @@ a tool for website auto views 🙂 it's a very strong tool amd 100% working 😌
 But it's Paid Tool
 
 For Buy Apruval Visit: https://t.me/Grandpa_House
+
+### 1 week 50 bdt
+### 1 month 100 bdt
+### 1 year 500 bdt
+
 # Installation
 
 `pkg update`<br>
